@@ -1,18 +1,3 @@
-# JetBrains-Graql-Plugin
-Basic support for the Graql language (http://grakn.ai)
+## DEPRECATED
 
-## Features
-- Syntax highlighting/validation
-- Find usages support
-- Basic code completion
-- Code commenting
-
-### Inspections
-- Undefined concept declaration
-- Unused attribute/role declaration
-- Duplicate concept declaration
-- Unplayed role declaration
-- Invalid concept type usage
-
-## Screencast
-![Example](https://i.imgur.com/45bS8au.gif)
+### This project is deprecated and no longer being maintained, please use the official version [JetBrains Graql Plugin](https://github.com/graknlabs/graql/plugins/jetbrains-plugin).
